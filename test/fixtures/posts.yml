@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 1
+  post_type: MyString
+  title: MyString
+  description: MyText
+  media_url: MyString
+  media_type: MyString
+  event_id: 1
+
+two:
+  user_id: 1
+  post_type: MyString
+  title: MyString
+  description: MyText
+  media_url: MyString
+  media_type: MyString
+  event_id: 1
